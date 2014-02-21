@@ -1,0 +1,23 @@
+body{
+	background-color:#31328D;
+	border:1px solid black;
+	font-family:;
+	font-size:1.2em;
+<<<<<<< HEAD
+	border-radius:box;
+=======
+	border-radius:circle;
+>>>>>>> Editing
+}
+#header{
+	background-color:#8C8DD9;
+
+}
+.head{
+	background-color:#8C8DD9;
+}
+.para{
+	background-color:#8C8DD9;
+}
+
+
